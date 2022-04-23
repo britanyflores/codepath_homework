@@ -22,6 +22,7 @@ Description: execute the wget command inside the honeypot-1 VM to install the Di
 
 Description: export data collected from honeypots
 
+<img src="database-backup.gif">
 
 ## Additional Honeypot(s) Deployed
 
