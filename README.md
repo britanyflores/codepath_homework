@@ -29,9 +29,9 @@ Description: export data collected from honeypots
 
 ## Cowrie Honeypot-2 
 
-Description: execute the wget command inside the honeypot-2 VM to install the Cowrie software to collect data about an attack
+Description: execute the wget command inside the honeypot-2 VM to install the Magenpot software to collect data about an attack
 
-<img src="cowrie-honeypot-2.gif">
+<img src="honeypot2.gif">
 
 
 ## Drupot Honeypot-3
