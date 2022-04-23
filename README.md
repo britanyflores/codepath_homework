@@ -27,7 +27,7 @@ Description: export data collected from honeypots
 ## Additional Honeypot(s) Deployed
 
 
-## Cowrie Honeypot-2 
+## Magenpot Honeypot-2 
 
 Description: execute the wget command inside the honeypot-2 VM to install the Magenpot software to collect data about an attack
 
