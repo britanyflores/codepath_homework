@@ -15,7 +15,7 @@ Description: Deploy mhn-admin in local machine
 
 Description: execute the wget command inside the honeypot-1 VM to install the Dionaea software to collect data about an attack
 
-<img src="dionaea-honeypot-deployment.gif">
+<img src="honeypot-1.gif">
 
 
 ## Database Backup (session.json)
