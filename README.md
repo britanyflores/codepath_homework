@@ -39,3 +39,8 @@ Description: execute the wget command inside the honeypot-2 VM to install the Ma
 Description: execute the wget command inside the honeypot-3 VM to install the Drupot software to collect data about an attack
 
 <img src="honeypot-3.gif">
+
+
+## Notes
+
+My biggest challenge was not getting many attacks 
