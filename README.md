@@ -38,4 +38,4 @@ Description: execute the wget command inside the honeypot-2 VM to install the Co
 
 Description: execute the wget command inside the honeypot-3 VM to install the Drupot software to collect data about an attack
 
-<img src="drupot-honeypot-3.gif">
+<img src="honeypot-3.gif">
